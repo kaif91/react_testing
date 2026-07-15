@@ -1,7 +1,4 @@
-# Finished Projects — React Testing Library Course
-
-This folder contains the completed example apps from the Udemy course
-[React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library).
+React Testing Library Project
 
 Both projects are built with **React 18 + Vite**, tested with **Vitest** and
 **React Testing Library (RTL)**, and linted with **ESLint**.
